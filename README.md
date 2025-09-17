@@ -1,10 +1,10 @@
 LiMobro – Autonomous Mobile Robot (AgileX)
-📌 Project Overview
+ Project Overview
 
 LiMobro is an AgileX autonomous mobile robot (AMR) platform.
 In this project, I developed and optimized multiple modules to improve navigation accuracy, mapping performance, and task automation.
 
-🔧 My Contributions
+ My Contributions
 
 Optimized navigation & mapping files to achieve higher accuracy in SLAM and path planning.
 
@@ -14,7 +14,7 @@ Yellow line detection & tracking: Implemented vision-based line detection to gui
 
 System testing & validation with real-world experiments to ensure robustness.
 
-🛠️ Tools & Technologies
+ Tools & Technologies
 
 ROS / ROS 2 (Navigation, SLAM)
 
