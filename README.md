@@ -24,7 +24,6 @@ OpenCV (line detection)
 
 AgileX SDK
 
-📸 Media
-
 Video Demo:
-https://github.com/user-attachments/assets/d4d5e511-6be9-4435-872c-1b480e4cc6ff
+https://github.com/user-attachments/assets/32812b42-4bff-4c55-82a1-e251d39099a8
+
